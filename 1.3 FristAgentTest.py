@@ -155,7 +155,7 @@ llm = OpenAICompatibleClient(
 )
 
 # --- 2. Initialize ---
-user_prompt = "Hello, please help me check the today's weather in Berjing, and then recommend a suitable tourist attraction based on the weather."
+user_prompt = "Hello, please help me check the today's weather in Beijing, and then recommend a suitable tourist attraction based on the weather."
 prompt_history = [f"User request: {user_prompt}"]
 
 print(f"User input: {user_prompt}\n" + "="*40)
