@@ -1,0 +1,716 @@
+{
+  "search_metadata": {
+    "id": "6ab1db4e65f701613e50d05c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RVjMmfyY6wuFaXJLXiEQ-GMYJnWSVsmmb0G_oP2VUTw/6ab1db4e65f701613e50d05c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/RVjMmfyY6wuFaXJLXiEQ-GMYJnWSVsmmb0G_oP2VUTw/6ab1db4e65f701613e50d05c.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/RVjMmfyY6wuFaXJLXiEQ-GMYJnWSVsmmb0G_oP2VUTw/6ab1db4e65f701613e50d05c.json_with_pixel_position",
+    "created_at": "2026-09-22 01:35:10 UTC",
+    "processed_at": "2026-09-22 01:35:10 UTC",
+    "google_url": "https://www.google.com/search?q=Coffee&oq=Coffee&hl=zh-cn&gl=cn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/RVjMmfyY6wuFaXJLXiEQ-GMYJnWSVsmmb0G_oP2VUTw/6ab1db4e65f701613e50d05c.html",
+    "total_time_taken": 0.79
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Coffee",
+    "google_domain": "google.com",
+    "hl": "zh-cn",
+    "gl": "cn",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Coffee",
+    "total_results": 119,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "咖啡 (Coffee)",
+    "type": "饮料",
+    "entity_type": "food",
+    "kgmid": "/m/02vqfm",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02vqfm&hl=zh-Hans-CN&q=%E5%92%96%E5%95%A1+%28Coffee%29",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-Hans-CN&kgmid=%2Fm%2F02vqfm&q=%E5%92%96%E5%95%A1+%28Coffee%29",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/6ab1db4e65f701613e50d05c/images/5jpcEfzwlHoyzSxsgREkxvfwAqpruzDxLxvtfwIUIjGnokQyQJK83zDGDxI7drfD.webp",
+        "source": "https://altonbrown.com/recipes/perfect-pour-over-coffee/"
+      },
+      {
+        "image": "https://serpapi.com/searches/6ab1db4e65f701613e50d05c/images/5jpcEfzwlHoyzSxsgREkxj7dyN4i4hzo-N0x0M9XGxEf1dv-6DbmENEEXKD2AKd-.webp",
+        "source": "https://www.cnn.com/2017/09/29/health/coffee-healthy-food-drayer"
+      },
+      {
+        "image": "https://serpapi.com/searches/6ab1db4e65f701613e50d05c/images/5jpcEfzwlHoyzSxsgREkxuxjLixDt8cHogA7jklmuk8sTqPmANytFIqZCfNN9ajB.webp",
+        "source": "https://www.royalcupcoffee.com/blog/articles/selecting-right-coffee-every-time-day"
+      },
+      {
+        "image": "https://serpapi.com/searches/6ab1db4e65f701613e50d05c/images/5jpcEfzwlHoyzSxsgREkxqtPEQKnB3DzzQVs98_Z3mWGMXaNCMlwjdbkLauRuNCc.webp",
+        "source": "https://stonestreetcoffee.com/blogs/brooklyn-coffee-academy/an-a-to-z-glossary-of-coffee-drinks"
+      },
+      {
+        "image": "https://serpapi.com/searches/6ab1db4e65f701613e50d05c/images/5jpcEfzwlHoyzSxsgREkxoMnNh6JT-W2z_7zstq1WJEExvA2iQWg-gqNLH171hJi.webp",
+        "source": "https://en.wikipedia.org/wiki/Coffee_bean"
+      }
+    ],
+    "description": "咖啡是指将咖啡植物的种子经过烘焙磨粉后冲泡溶解制成的饮料。咖啡是世界上流行范围最为广泛的软性饮料之一，因其有效成分咖啡因是一种中枢神经兴奋剂，人类通常会为了提神或社交等原因饮用。",
+    "description_highlighted_words": [],
+    "source": {
+      "name": "维基百科",
+      "link": "https://zh.wikipedia.org/zh-cn/%E5%92%96%E5%95%A1"
+    },
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/6ab1db4e65f701613e50d05c/images/5jpcEfzwlHoyzSxsgREkxsERzeweCQUNBoNKJwHnlqS7GiQUkC_6rOb3RquGMUMw.jpeg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRd7qSJLjLQyWSD1EYTNKN7oAJCXUptq37xqQ",
+        "duration": "4:57",
+        "link": "https://www.youtube.com/watch?v=u3vgNdbH-Es"
+      },
+      {
+        "title": "Perfect Daily Grind: Coffee news publication",
+        "snippet": "Perfect Daily Grind is a specialty coffee and coffee news publication. We cover coffee brewing, roasting, production, coffee shops and more.",
+        "source": "Perfect Daily Grind",
+        "link": "https://perfectdailygrind.com/"
+      },
+      {
+        "thumbnail": "https://serpapi.com/searches/6ab1db4e65f701613e50d05c/images/5jpcEfzwlHoyzSxsgREkxmhKaMs0L1NhX5kDUf7oGSA_NaFN-h7n_JSi8vFZrOyz.jpeg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS-xxOpkMAcvph8r-hUAQhyGNkmZ8Rq2FgIFg",
+        "duration": "22:17",
+        "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "How Coffee is Made in 10 Countries | Epicurious",
+      "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo",
+      "thumbnail": "https://serpapi.com/searches/6ab1db4e65f701613e50d05c/images/V6Urif6uTUYQ-oejMCffOVV35XsgPjQSoZ-dxVjMJn8.jpeg",
+      "channel": "Epicurious",
+      "duration": "22:17",
+      "platform": "YouTube",
+      "date": "2025年6月18日",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS-xxOpkMAcvph8r-hUAQhyGNkmZ8Rq2FgIFg",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo&t=0"
+        },
+        {
+          "time": "00:12",
+          "title": "France",
+          "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo&t=12"
+        },
+        {
+          "time": "02:30",
+          "title": "Nigeria",
+          "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo&t=150"
+        },
+        {
+          "time": "04:04",
+          "title": "USA",
+          "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo&t=244"
+        },
+        {
+          "time": "06:15",
+          "title": "Japan",
+          "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo&t=375"
+        },
+        {
+          "time": "10:05",
+          "title": "Algeria",
+          "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo&t=605"
+        },
+        {
+          "time": "13:00",
+          "title": "India",
+          "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo&t=780"
+        },
+        {
+          "time": "14:42",
+          "title": "China",
+          "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo&t=882"
+        },
+        {
+          "time": "15:39",
+          "title": "Turkey",
+          "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo&t=939"
+        },
+        {
+          "time": "18:05",
+          "title": "Mexico",
+          "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo&t=1085"
+        },
+        {
+          "time": "19:28",
+          "title": "Ecuador",
+          "link": "https://www.youtube.com/watch?v=SL_fNEFj2Eo&t=1168"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "What truly makes a cup of coffee \"good\"?",
+      "link": "https://www.youtube.com/watch?v=u3vgNdbH-Es",
+      "thumbnail": "https://serpapi.com/searches/6ab1db4e65f701613e50d05c/images/m7LJG8Tu8zRhLdFYyA1n_S4vNN1YrkKgXzaLFvrroDo.jpeg",
+      "channel": "DiFluid",
+      "duration": "4:57",
+      "platform": "YouTube",
+      "date": "2 周前",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRd7qSJLjLQyWSD1EYTNKN7oAJCXUptq37xqQ"
+    },
+    {
+      "position": 3,
+      "title": "How Coffee Became the World's Favorite Drink",
+      "link": "https://www.youtube.com/watch?v=DibbEaRJgi0",
+      "thumbnail": "https://serpapi.com/searches/6ab1db4e65f701613e50d05c/images/vGB4omq6DfnxBr4_s6iFE2TxfUPMqObJc3y7WNS8B1g.jpeg",
+      "channel": "History of Simple Things",
+      "duration": "32:44",
+      "platform": "YouTube",
+      "date": "2026年4月2日",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS0-jyWYcQrttuQF_qA_SA_LPG0xhcWBAXWyg",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=0"
+        },
+        {
+          "time": "01:20",
+          "title": "What Coffee Actually Is",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=80"
+        },
+        {
+          "time": "02:35",
+          "title": "How Coffee Is Grown",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=155"
+        },
+        {
+          "time": "03:31",
+          "title": "Harvesting Coffee Beans",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=211"
+        },
+        {
+          "time": "04:21",
+          "title": "Processing and Drying",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=261"
+        },
+        {
+          "time": "05:44",
+          "title": "Roasting Coffee",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=344"
+        },
+        {
+          "time": "06:56",
+          "title": "Coffee Roasts Explained",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=416"
+        },
+        {
+          "time": "07:53",
+          "title": "Grinding and Brewing",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=473"
+        },
+        {
+          "time": "09:00",
+          "title": "Major Types of Coffee Beans",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=540"
+        },
+        {
+          "time": "10:12",
+          "title": "Why It’s Called Coffee",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=612"
+        },
+        {
+          "time": "11:22",
+          "title": "The Ethiopian Origins",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=682"
+        },
+        {
+          "time": "12:37",
+          "title": "The Legend of Kaldi",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=757"
+        },
+        {
+          "time": "13:54",
+          "title": "Coffee Reaches Arabia",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=834"
+        },
+        {
+          "time": "15:09",
+          "title": "The Birth of Coffeehouses",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=909"
+        },
+        {
+          "time": "16:34",
+          "title": "Coffee Spreads Through the Ottoman Empire",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=994"
+        },
+        {
+          "time": "17:58",
+          "title": "Coffee Arrives in Europe",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=1078"
+        },
+        {
+          "time": "19:17",
+          "title": "European Coffeehouses and Culture",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=1157"
+        },
+        {
+          "time": "20:42",
+          "title": "Coffee Reaches the Americas",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=1242"
+        },
+        {
+          "time": "22:15",
+          "title": "Popular Coffee Drinks",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=1335"
+        },
+        {
+          "time": "23:36",
+          "title": "Coffee as a Global Commodity",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=1416"
+        },
+        {
+          "time": "24:56",
+          "title": "Industrialization of Coffee",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=1496"
+        },
+        {
+          "time": "26:13",
+          "title": "Instant and Decaf Coffee",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=1573"
+        },
+        {
+          "time": "28:08",
+          "title": "Coffee and Culture",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=1688"
+        },
+        {
+          "time": "29:29",
+          "title": "Modern Coffee Trends",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=1769"
+        },
+        {
+          "time": "31:38",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=DibbEaRJgi0&t=1898"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is it healthy to drink coffee every day?",
+      "type": "featured_snippet",
+      "snippet": "The latest research supports the conclusion that for most adults, consuming up to 400 mg of caffeine/day (or up to 5, 8-ounce cups of caffeinated coffee per day) is safe and appears to be linked to a lower risk of cardiovascular disease for some individuals.",
+      "title": "How many cups of caffeinated coffee are safe to drink each day?",
+      "date": "2026年7月20日",
+      "link": "https://newsroom.heart.org/news/coffee-and-heart-health-how-many-cups-of-caffeinated-coffee-are-safe-to-drink-each-day",
+      "displayed_link": "https://newsroom.heart.org › news › coffee-and-heart-he...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABbklEQVR4AZXTA2xYURiG4dm2bdv2osXz1ga17Tasbdu23aC2bdu6f7_auskTHLzXa1ZzpF649hjWrHbTTngBYlAHW1e6cS0oQR_QhFhY8Zm_AUEcNMIwuMOmlQZEQAbuQjlYwOXlNh0EYVACTjgKe-ArKIMQ7F9s8zmoBRpz8TqVsHNr1hma6Bf-ZWXSr9-dfA7VcHqhgPnk5uxX76m3oJAGm5qoMyGB6U7PYLKVVSjp_NXJiNFCgbjJQObDZ1QmLMaUS0hTi5c35f34Q07nLpLPqfOUMr4mcqGABdBMbeERRDh8eflI__Bxcj15lqLOXibMGS8UeALMzEClrMJYwJOdYyoQfvYSk3z15oPFHqTuzEDOhy9jAS8OzqlA8LnLWku9xo3gMzMy0NhIfvwCYwHnU2e9gu_c2rDct7AJbKaeQ2g4hcjIkt6R45aOVy5tXM1_IA5DNZo6g0VhYSImNy-u-i-8AR8z7j1-t9S6EdcADPSphtkLAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJVOU5SbkIyY0VoSGRuQm1hME13VW1JeWVVWnpVVFZDYVhkdk16ZDZlRmhrVm5abE56WjRlbTV1ZEdOYVpYQXpUM1pYZVU5amVFZG1SemhKT1VrMWFYa3dhV2xRYlcxS1FtSXhXVkEzWkdOUlYxa3hSVEZHTFZSUlVSSVhWRGwxZUdGMFZEWkZkSFpNYTFCSlVDMWtNbDkzUVdNYUlrRkVjM0k1WmxGRlRURjBhRzVPZEVFMU9UbDRkRUZGY1hoc2VFSnJOVWc1T1ZFIiwiZmN2IjoiMyIsImVpIjoiVDl1eGF0VDZFdHZMa1BJUC1kMl93QWMiLCJxYyI6IkNnWmpiMlptWldVUUFIMnlHREFfIiwicXVlc3Rpb24iOiJJcyBpdCBoZWFsdGh5IHRvIGRyaW5rIGNvZmZlZSBldmVyeSBkYXk/IiwibGsiOiJHaVpwY3lCcGRDQm9aV0ZzZEdoNUlIUnZJR1J5YVc1cklHTnZabVpsWlNCbGRtVnllV1JoZVEiLCJicyI6ImM0WE1NUW9DTVJBRlVHd0hDeHMxeHNLeGthMkRwWkRDUmp1N3JlUHV4QXpxQnJKQnlZRzhnSVczOFM2dXVBaUNhRGY4X181QUR0bTZSbzdveUJ5aVN4Zzlsb0dyUFJiZVdpS2tFNFdFcFVsYTNEY3FrelAtenhzTmN4aThIcmVGRDgtTFNJc0xxS0hzODdjU0ZpQ2JWWnZhNEktNGRGd1ozSGxmYW5GemFpeEhfQW1LTjRBVllPNU1SQk1Jb3lQY1VrV1dZNDNldGhNdHJsMDFsWlB6YjliclBBQSIsImlkIjoiZmNfVDl1eGF0VDZFdHZMa1BJUC1kMl93QWNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJVOU5SbkIyY0VoSGRuQm1hME13VW1JeWVVWnpVVFZDYVhkdk16ZDZlRmhrVm5abE56WjRlbTV1ZEdOYVpYQXpUM1pYZVU5amVFZG1SemhKT1VrMWFYa3dhV2xRYlcxS1FtSXhXVkEzWkdOUlYxa3hSVEZHTFZSUlVSSVhWRGwxZUdGMFZEWkZkSFpNYTFCSlVDMWtNbDkzUVdNYUlrRkVjM0k1WmxGRlRURjBhRzVPZEVFMU9UbDRkRUZGY1hoc2VFSnJOVWc1T1ZFIiwiZmN2IjoiMyIsImVpIjoiVDl1eGF0VDZFdHZMa1BJUC1kMl93QWMiLCJxYyI6IkNnWmpiMlptWldVUUFIMnlHREFfIiwicXVlc3Rpb24iOiJJcyBpdCBoZWFsdGh5IHRvIGRyaW5rIGNvZmZlZSBldmVyeSBkYXk%2FIiwibGsiOiJHaVpwY3lCcGRDQm9aV0ZzZEdoNUlIUnZJR1J5YVc1cklHTnZabVpsWlNCbGRtVnllV1JoZVEiLCJicyI6ImM0WE1NUW9DTVJBRlVHd0hDeHMxeHNLeGthMkRwWkRDUmp1N3JlUHV4QXpxQnJKQnlZRzhnSVczOFM2dXVBaUNhRGY4X181QUR0bTZSbzdveUJ5aVN4Zzlsb0dyUFJiZVdpS2tFNFdFcFVsYTNEY3FrelAtenhzTmN4aThIcmVGRDgtTFNJc0xxS0hzODdjU0ZpQ2JWWnZhNEktNGRGd1ozSGxmYW5GemFpeEhfQW1LTjRBVllPNU1SQk1Jb3lQY1VrV1dZNDNldGhNdHJsMDFsWlB6YjliclBBQSIsImlkIjoiZmNfVDl1eGF0VDZFdHZMa1BJUC1kMl93QWNfMiJ9"
+    },
+    {
+      "question": "Is it coffee or cofee?",
+      "type": "featured_snippet",
+      "snippet": "It's spelled Coffee ☕️ Like the drink.",
+      "title": "The correct spelling is COFFEE not COFFEE. Some people put the ...",
+      "date": "2024年2月23日",
+      "link": "https://www.facebook.com/100077441485779/posts/the-correct-spelling-is-coffee-not-coffee-some-people-put-the-second-f-before-th/434091172515595/",
+      "displayed_link": "https://www.facebook.com › posts › the-correct-spelling-...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAARVBMVEVHcEzy9P8AUf8ASv8HZ_8IZv8IZ_8IZ_8Haf8IZ_8HZv____8AWf8AXv8AU_-Vrv8AYv92mf-5yP_W3v8ASv8AQv8nbv-7HldHAAAACnRSTlMA7NmTk_zaoh7UuAxLUQAAAIZJREFUGJVFj9sCwyAIQ9mmqIi3rt3_f-qItW2e4KAJEJmiY-_ZRVoKshTOPqEuVVUl3XNtOeev4k2cc_QAEsnNBy9rx-gijhig2lyL9cLk8eMwcGix0gOULU9tBYAfAA-GaR8Iae0nMEVs3w3ssLDYuRhS6r18ekC6jlsgXOfGj236Ps__A7wiCPnj1HgsAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJVOU5SbkIyY0VoSGRuQm1hME13VW1JeWVVWnpVVFZDYVhkdk16ZDZlRmhrVm5abE56WjRlbTV1ZEdOYVpYQXpUM1pYZVU5amVFZG1SemhKT1VrMWFYa3dhV2xRYlcxS1FtSXhXVkEzWkdOUlYxa3hSVEZHTFZSUlVSSVhWRGwxZUdGMFZEWkZkSFpNYTFCSlVDMWtNbDkzUVdNYUlrRkVjM0k1WmxGRlRURjBhRzVPZEVFMU9UbDRkRUZGY1hoc2VFSnJOVWc1T1ZFIiwiZmN2IjoiMyIsImVpIjoiVDl1eGF0VDZFdHZMa1BJUC1kMl93QWMiLCJxYyI6IkNnWmpiMlptWldVUUFIMnlHREFfIiwicXVlc3Rpb24iOiJJcyBpdCBjb2ZmZWUgb3IgY29mZWU/IiwibGsiOiJjNU1TelN4V3lDeFJTTTVQUzB0TlZjZ3ZBckZTVXdFIiwiYnMiOiJjNFhNTVFvQ01SQUZVR3dIQ3hzMXhzS3hrYTJEcFpEQ1JqdTdyZVB1eEF6cUJySkJ5WUc4Z0lXMzhTNnV1QWlDYURmOF9fNUFEdG02Um83b3lCeWlTeGc5bG9HclBSYmVXaUtrRTRXRXBVbGEzRGNxa3pQLXp4c05jeGk4SHJlRkQ4LUxTSXNMcUtIczg3Y1NGaUNiVlp2YTRJLTRkRndaM0hsZmFuRnphaXhIX0FtS040QVZZTzVNUkJNSW95UGNVa1dXWTQzZXRoTXRybDAxbFpQemI5YnJQQUEiLCJpZCI6ImZjX1Q5dXhhdFQ2RXR2TGtQSVAtZDJfd0FjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJVOU5SbkIyY0VoSGRuQm1hME13VW1JeWVVWnpVVFZDYVhkdk16ZDZlRmhrVm5abE56WjRlbTV1ZEdOYVpYQXpUM1pYZVU5amVFZG1SemhKT1VrMWFYa3dhV2xRYlcxS1FtSXhXVkEzWkdOUlYxa3hSVEZHTFZSUlVSSVhWRGwxZUdGMFZEWkZkSFpNYTFCSlVDMWtNbDkzUVdNYUlrRkVjM0k1WmxGRlRURjBhRzVPZEVFMU9UbDRkRUZGY1hoc2VFSnJOVWc1T1ZFIiwiZmN2IjoiMyIsImVpIjoiVDl1eGF0VDZFdHZMa1BJUC1kMl93QWMiLCJxYyI6IkNnWmpiMlptWldVUUFIMnlHREFfIiwicXVlc3Rpb24iOiJJcyBpdCBjb2ZmZWUgb3IgY29mZWU%2FIiwibGsiOiJjNU1TelN4V3lDeFJTTTVQUzB0TlZjZ3ZBckZTVXdFIiwiYnMiOiJjNFhNTVFvQ01SQUZVR3dIQ3hzMXhzS3hrYTJEcFpEQ1JqdTdyZVB1eEF6cUJySkJ5WUc4Z0lXMzhTNnV1QWlDYURmOF9fNUFEdG02Um83b3lCeWlTeGc5bG9HclBSYmVXaUtrRTRXRXBVbGEzRGNxa3pQLXp4c05jeGk4SHJlRkQ4LUxTSXNMcUtIczg3Y1NGaUNiVlp2YTRJLTRkRndaM0hsZmFuRnphaXhIX0FtS040QVZZTzVNUkJNSW95UGNVa1dXWTQzZXRoTXRybDAxbFpQemI5YnJQQUEiLCJpZCI6ImZjX1Q5dXhhdFQ2RXR2TGtQSVAtZDJfd0FjXzIifQ%3D%3D"
+    },
+    {
+      "question": "Is coffee from China good?",
+      "type": "featured_snippet",
+      "snippet": "A fine cup of China coffee displays a light to medium body with a relatively mild acidity and clean taste. Some have compared China coffee to wet-processed South American coffees.",
+      "title": "Coffee Beans from China - Espresso & Coffee Guide",
+      "link": "https://espressocoffeeguide.com/gourmet-coffee/asian-indonesian-and-pacific-coffees/chinese-coffee/",
+      "displayed_link": "https://espressocoffeeguide.com › gourmet-coffee › chin...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA6UlEQVR4AWKgKRAWlxQA1EoHGggFQRSGCVcCJIGQhBBCICQhIT1AQiAQCEkIQICQJD1GQiABrkBCrhBCEpIkxPSjGKuq0PABe2Z21iIA65eQhSqWkLsLhkh8CvtgQ164ovYs6IYXE8gXCjqcwg6DFxPXOEOULdyPBl0IjhDFQQRZRHGAKLlHg5iaoJXRUjcRQ12vkcYeopTQwRQ-zCBK03zIAEaQuxnCaCCIOUTZI6MbJJFAHrY6NIYDgamiG3jgYIE2-lhBYLJRh2WuEcEG8kYfrne_0Y8eThBliaIZNstcKY4UQiD4h7oB3CudFZ0Q4YYAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJVOU5SbkIyY0VoSGRuQm1hME13VW1JeWVVWnpVVFZDYVhkdk16ZDZlRmhrVm5abE56WjRlbTV1ZEdOYVpYQXpUM1pYZVU5amVFZG1SemhKT1VrMWFYa3dhV2xRYlcxS1FtSXhXVkEzWkdOUlYxa3hSVEZHTFZSUlVSSVhWRGwxZUdGMFZEWkZkSFpNYTFCSlVDMWtNbDkzUVdNYUlrRkVjM0k1WmxGRlRURjBhRzVPZEVFMU9UbDRkRUZGY1hoc2VFSnJOVWc1T1ZFIiwiZmN2IjoiMyIsImVpIjoiVDl1eGF0VDZFdHZMa1BJUC1kMl93QWMiLCJxYyI6IkNnWmpiMlptWldVUUFIMnlHREFfIiwicXVlc3Rpb24iOiJJcyBjb2ZmZWUgZnJvbSBDaGluYSBnb29kPyIsImxrIjoiR2hscGN5QmpiMlptWldVZ1puSnZiU0JqYUdsdVlTQm5iMjlrIiwiYnMiOiJjNFhNTVFvQ01SQUZVR3dIQ3hzMXhzS3hrYTJEcFpEQ1JqdTdyZVB1eEF6cUJySkJ5WUc4Z0lXMzhTNnV1QWlDYURmOF9fNUFEdG02Um83b3lCeWlTeGc5bG9HclBSYmVXaUtrRTRXRXBVbGEzRGNxa3pQLXp4c05jeGk4SHJlRkQ4LUxTSXNMcUtIczg3Y1NGaUNiVlp2YTRJLTRkRndaM0hsZmFuRnphaXhIX0FtS040QVZZTzVNUkJNSW95UGNVa1dXWTQzZXRoTXRybDAxbFpQemI5YnJQQUEiLCJpZCI6ImZjX1Q5dXhhdFQ2RXR2TGtQSVAtZDJfd0FjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJVOU5SbkIyY0VoSGRuQm1hME13VW1JeWVVWnpVVFZDYVhkdk16ZDZlRmhrVm5abE56WjRlbTV1ZEdOYVpYQXpUM1pYZVU5amVFZG1SemhKT1VrMWFYa3dhV2xRYlcxS1FtSXhXVkEzWkdOUlYxa3hSVEZHTFZSUlVSSVhWRGwxZUdGMFZEWkZkSFpNYTFCSlVDMWtNbDkzUVdNYUlrRkVjM0k1WmxGRlRURjBhRzVPZEVFMU9UbDRkRUZGY1hoc2VFSnJOVWc1T1ZFIiwiZmN2IjoiMyIsImVpIjoiVDl1eGF0VDZFdHZMa1BJUC1kMl93QWMiLCJxYyI6IkNnWmpiMlptWldVUUFIMnlHREFfIiwicXVlc3Rpb24iOiJJcyBjb2ZmZWUgZnJvbSBDaGluYSBnb29kPyIsImxrIjoiR2hscGN5QmpiMlptWldVZ1puSnZiU0JqYUdsdVlTQm5iMjlrIiwiYnMiOiJjNFhNTVFvQ01SQUZVR3dIQ3hzMXhzS3hrYTJEcFpEQ1JqdTdyZVB1eEF6cUJySkJ5WUc4Z0lXMzhTNnV1QWlDYURmOF9fNUFEdG02Um83b3lCeWlTeGc5bG9HclBSYmVXaUtrRTRXRXBVbGEzRGNxa3pQLXp4c05jeGk4SHJlRkQ4LUxTSXNMcUtIczg3Y1NGaUNiVlp2YTRJLTRkRndaM0hsZmFuRnphaXhIX0FtS040QVZZTzVNUkJNSW95UGNVa1dXWTQzZXRoTXRybDAxbFpQemI5YnJQQUEiLCJpZCI6ImZjX1Q5dXhhdFQ2RXR2TGtQSVAtZDJfd0FjXzIifQ%3D%3D"
+    },
+    {
+      "question": "What are the benefits of coffee?",
+      "type": "featured_snippet",
+      "snippet": "Drinking coffee with caffeine has been linked with improved mood and a lower risk of depression in some groups. Drinking 3 to 4 cups of coffee a day is linked to a lower risk of stroke in some studies. And coffee may help protect against cancers of the mouth, throat and digestive system.",
+      "title": "Coffee and health: What does the research say? - Mayo Clinic",
+      "date": "2025年1月31日",
+      "link": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/coffee-and-health/faq-20058339",
+      "displayed_link": "https://www.mayoclinic.org › faq-20058339",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA-VBMVEVHcExAW4oVV54fWas9XYoiY5oYWKElW6QaWaYpXKUjYZwhWpklWZo0WZMfVKIjWKY6iKAsZYZAWY0PW5kGSZ4pXKkXVYIYXqofWKgeVKElUpoQX6lUdq4XWbFGdLknWqI4Y6kMTaAzXJ56m9jL1OPE2PgGW54kWZgzU4yMpdsbXJomZbNKba2XteZtjLGwu-Khs99yis7Izes_R4vS3eumq8_h7vgjZpgtU61PfL8OVKd3k8dgZ7COksC9wuumvuxcY5v58v9cgrhhnrlLaZuAsONZksGvx_80YpWGt9Wvn9Cbx_mxpdGPq8c0b75GYbSIo8XQ6P0bSnz4sX27AAAAGHRSTlMADFk5AgZ5Fo8oM2XvhsRBArWV6ovetOwlB8_RAAAA5klEQVQYlS2PRXLEMAAEZYbFsCyZmdle5jAn_39M7NrMrbvmMANAH0agBI4G_6HFixmGc23IcmceDD0PQqgoxljoxQQhJElSJ5bGuOswN7oaq7KpLxaqqrAAUNHjg2Ul6SoJrLfPOxqws9OL_F3btr1Zt0fMAT5MP-TdT10fXqtWxiLgtbTcZ07RHN73jmpQ4BrKTmM7X0W7zQLTEwAJtWNWbqp58hTcP_8ygEO-H-dNtd5ZWhjedsNGvinJ-bbMdRe7YieIS1OCerGKMXYH0347MZKiCCFjeUUy57tTjuR5np0QPfwBL3EdqvwXn44AAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJVOU5SbkIyY0VoSGRuQm1hME13VW1JeWVVWnpVVFZDYVhkdk16ZDZlRmhrVm5abE56WjRlbTV1ZEdOYVpYQXpUM1pYZVU5amVFZG1SemhKT1VrMWFYa3dhV2xRYlcxS1FtSXhXVkEzWkdOUlYxa3hSVEZHTFZSUlVSSVhWRGwxZUdGMFZEWkZkSFpNYTFCSlVDMWtNbDkzUVdNYUlrRkVjM0k1WmxGRlRURjBhRzVPZEVFMU9UbDRkRUZGY1hoc2VFSnJOVWc1T1ZFIiwiZmN2IjoiMyIsImVpIjoiVDl1eGF0VDZFdHZMa1BJUC1kMl93QWMiLCJxYyI6IkNnWmpiMlptWldVUUFIMnlHREFfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVuZWZpdHMgb2YgY29mZmVlPyIsImxrIjoiR2g5M2FHRjBJR0Z5WlNCMGFHVWdZbVZ1WldacGRITWdiMllnWTI5bVptVmwiLCJicyI6ImM0WE1NUW9DTVJBRlVHd0hDeHMxeHNLeGthMkRwWkRDUmp1N3JlUHV4QXpxQnJKQnlZRzhnSVczOFM2dXVBaUNhRGY4X181QUR0bTZSbzdveUJ5aVN4Zzlsb0dyUFJiZVdpS2tFNFdFcFVsYTNEY3FrelAtenhzTmN4aThIcmVGRDgtTFNJc0xxS0hzODdjU0ZpQ2JWWnZhNEktNGRGd1ozSGxmYW5GemFpeEhfQW1LTjRBVllPNU1SQk1Jb3lQY1VrV1dZNDNldGhNdHJsMDFsWlB6YjliclBBQSIsImlkIjoiZmNfVDl1eGF0VDZFdHZMa1BJUC1kMl93QWNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJVOU5SbkIyY0VoSGRuQm1hME13VW1JeWVVWnpVVFZDYVhkdk16ZDZlRmhrVm5abE56WjRlbTV1ZEdOYVpYQXpUM1pYZVU5amVFZG1SemhKT1VrMWFYa3dhV2xRYlcxS1FtSXhXVkEzWkdOUlYxa3hSVEZHTFZSUlVSSVhWRGwxZUdGMFZEWkZkSFpNYTFCSlVDMWtNbDkzUVdNYUlrRkVjM0k1WmxGRlRURjBhRzVPZEVFMU9UbDRkRUZGY1hoc2VFSnJOVWc1T1ZFIiwiZmN2IjoiMyIsImVpIjoiVDl1eGF0VDZFdHZMa1BJUC1kMl93QWMiLCJxYyI6IkNnWmpiMlptWldVUUFIMnlHREFfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVuZWZpdHMgb2YgY29mZmVlPyIsImxrIjoiR2g5M2FHRjBJR0Z5WlNCMGFHVWdZbVZ1WldacGRITWdiMllnWTI5bVptVmwiLCJicyI6ImM0WE1NUW9DTVJBRlVHd0hDeHMxeHNLeGthMkRwWkRDUmp1N3JlUHV4QXpxQnJKQnlZRzhnSVczOFM2dXVBaUNhRGY4X181QUR0bTZSbzdveUJ5aVN4Zzlsb0dyUFJiZVdpS2tFNFdFcFVsYTNEY3FrelAtenhzTmN4aThIcmVGRDgtTFNJc0xxS0hzODdjU0ZpQ2JWWnZhNEktNGRGd1ozSGxmYW5GemFpeEhfQW1LTjRBVllPNU1SQk1Jb3lQY1VrV1dZNDNldGhNdHJsMDFsWlB6YjliclBBQSIsImlkIjoiZmNfVDl1eGF0VDZFdHZMa1BJUC1kMl93QWNfMiJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Coffee",
+      "link": "https://en.wikipedia.org/wiki/Coffee",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVwxqAykrs_F25lxiaLBg5fABTBenDnDI5rt2D5CdQZDrmEHWBf7cT0Pz7aOQKJVF7tAjdgri2_HoWDtPWnyAaffND7H0SY33izei--x9eW_dB7OpfL3MG&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › Coffee",
+      "thumbnail": "https://serpapi.com/searches/6ab1db4e65f701613e50d05c/images/uF6IXl4OZZ6C9c0-RSeAZHHzA4Ag5Q4Qc7VR586KnRE.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "snippet": "Coffee is a beverage brewed from roasted, ground coffee beans. Dark-colored and bitter, coffee has a stimulating effect on humans due to its caffeine content; ...",
+      "snippet_highlighted_words": [
+        "Coffee",
+        "coffee",
+        "coffee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Coffee is a beverage brewed from roasted, ground coffee beans. Dark-colored and bitter, coffee has a stimulating effect on humans due to its caffeine content; ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/Coffee",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "zh"
+        ],
+        "regions": [
+          "CN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVnd4cUF5a3JzX0YyNWx4aWFMQmc1ZkFCVEJlbkRuREk1cnQyRDVDZFFaRHJtRUhXQmY3Y1QwUHo3YU9RS0pWRjd0QWpkZ3JpMl9Ib1dEdFBXbnlBYWZmTkQ3SDBTWTMzaXplaS0teDllV19kQjdPcGZMM01HEgQaAggAGrcDEgIIARoCCAEiACoAMgYIAhICY246AEIECAIQEEoAWgByAHoAgkCPAwgAEAAYACAAKh4KBmNvZmZlZRVYHsZAGgdjb2ZmZWVzGgblkpbllaEyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWd3hxQXlrcnNfRjI1bHhpYUxCZzVmQUJUQmVuRG5ESTVydDJENUNkUVpEcm1FSFdCZjdjVDBQejdhT1FLSlZGN3RBamRncmkyX0hvV0R0UFdueUFhZmZORDdIMFNZMzNpemVpLS14OWVXX2RCN09wZkwzTUc6GTxiPkNvZmZlZTwvYj4gLSBXaWtpcGVkaWFCvAE8Yj5Db2ZmZWU8L2I-IGlzIGEgYmV2ZXJhZ2UgYnJld2VkIGZyb20gcm9hc3RlZCwgZ3JvdW5kIDxiPmNvZmZlZTwvYj4gYmVhbnMuIERhcmstY29sb3JlZCBhbmQgYml0dGVyLCA8Yj5jb2ZmZWU8L2I-IGhhcyBhIHN0aW11bGF0aW5nIGVmZmVjdCBvbiBodW1hbnMgZHVlIHRvIGl0cyBjYWZmZWluZSBjb250ZW50OyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVnd4cUF5a3JzX0YyNWx4aWFMQmc1ZkFCVEJlbkRuREk1cnQyRDVDZFFaRHJtRUhXQmY3Y1QwUHo3YU9RS0pWRjd0QWpkZ3JpMl9Ib1dEdFBXbnlBYWZmTkQ3SDBTWTMzaXplaS0teDllV19kQjdPcGZMM01HEgQaAggAGrcDEgIIARoCCAEiACoAMgYIAhICY246AEIECAIQEEoAWgByAHoAgkCPAwgAEAAYACAAKh4KBmNvZmZlZRVYHsZAGgdjb2ZmZWVzGgblkpbllaEyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWd3hxQXlrcnNfRjI1bHhpYUxCZzVmQUJUQmVuRG5ESTVydDJENUNkUVpEcm1FSFdCZjdjVDBQejdhT1FLSlZGN3RBamRncmkyX0hvV0R0UFdueUFhZmZORDdIMFNZMzNpemVpLS14OWVXX2RCN09wZkwzTUc6GTxiPkNvZmZlZTwvYj4gLSBXaWtpcGVkaWFCvAE8Yj5Db2ZmZWU8L2I-IGlzIGEgYmV2ZXJhZ2UgYnJld2VkIGZyb20gcm9hc3RlZCwgZ3JvdW5kIDxiPmNvZmZlZTwvYj4gYmVhbnMuIERhcmstY29sb3JlZCBhbmQgYml0dGVyLCA8Yj5jb2ZmZWU8L2I-IGhhcyBhIHN0aW11bGF0aW5nIGVmZmVjdCBvbiBodW1hbnMgZHVlIHRvIGl0cyBjYWZmZWluZSBjb250ZW50OyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "History of coffee - NCA - About Coffee",
+      "link": "https://www.aboutcoffee.org/origins/history-of-coffee/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVc-v11ypFWd7Jz9QNx8NheD6vg0zmjjYNxhwzl-yc7g638-XTaqOE9fmwb9icLBgqDV_ldwCSaEskUwOTWMNgl4jwq1D0p4MCzkHRmZouQeztj1aRzvWFIF0eHt2PUHTADhqZY3-689kx&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://www.aboutcoffee.org › Origins",
+      "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAABwBQCdASocABwAPtEutFooIagoGAEAGgljAMOtixjfbHLYVsTDuoscPWbWoeRPCvfzc0AAAP72Chvg2npf1skRMw818Rqt1D3XKdZYsp7fb2CUsenXdPccpUqsT2yYwad4HtKpc4z0eeMNhzE5Mx-j0T850-O1HCXfB3Fsj1kgOd-iFAqxGuiJwV-LoM-Tl_8o0TXE_EZkKo3X9cy6DV3YtR4fwxke0YneUMvK47-66Dd6JXwcgpofQca5n1n38NkO1qlmNJNkcj8EIvpHM3CCvUINvtoAAAA.webp",
+      "snippet": "Who discovered coffee trees? Who invented coffee as we enjoy it now? Learn coffee history and its journey across the globe from the 9th century to today.",
+      "snippet_highlighted_words": [
+        "Learn coffee history and its journey across the globe"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Who discovered coffee trees? Who invented coffee as we enjoy it now? Learn coffee history and its journey across the globe from the 9th century to today.",
+          "source_info_link": "https://www.aboutcoffee.org/origins/history-of-coffee/",
+          "icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAABwBQCdASocABwAPtEutFooIagoGAEAGgljAMOtixjfbHLYVsTDuoscPWbWoeRPCvfzc0AAAP72Chvg2npf1skRMw818Rqt1D3XKdZYsp7fb2CUsenXdPccpUqsT2yYwad4HtKpc4z0eeMNhzE5Mx-j0T850-O1HCXfB3Fsj1kgOd-iFAqxGuiJwV-LoM-Tl_8o0TXE_EZkKo3X9cy6DV3YtR4fwxke0YneUMvK47-66Dd6JXwcgpofQca5n1n38NkO1qlmNJNkcj8EIvpHM3CCvUINvtoAAAA.webp"
+        },
+        "languages": [
+          "zh"
+        ],
+        "regions": [
+          "CN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVmMtdjExeXBGV2Q3Sno5UU54OE5oZUQ2dmcwem1qallOeGh3emwteWM3ZzYzOC1YVGFxT0U5Zm13YjlpY0xCZ3FEVl9sZHdDU2FFc2tVd09UV01OZ2w0andxMUQwcDRNQ3prSFJtWm91UWV6dGoxYVJ6dldGSUYwZUh0MlBVSFRBRGhxWlkzLTY4OWt4EgQaAggAGtQDEgIIARoAIgAqADIGCAISAmNuOgBCBAgCEBBKAFoAcgB6AIJArgMIABAAGAAgACoeCgZjb2ZmZWUVoJCyQBoHY29mZmVlcxoG5ZKW5ZWhMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVmMtdjExeXBGV2Q3Sno5UU54OE5oZUQ2dmcwem1qallOeGh3emwteWM3ZzYzOC1YVGFxT0U5Zm13YjlpY0xCZ3FEVl9sZHdDU2FFc2tVd09UV01OZ2w0andxMUQwcDRNQ3prSFJtWm91UWV6dGoxYVJ6dldGSUYwZUh0MlBVSFRBRGhxWlkzLTY4OWt4OjxIaXN0b3J5IG9mIDxiPmNvZmZlZTwvYj4gLSBOQ0EgLSBOYXRpb25hbCBDb2ZmZWUgQXNzb2NpYXRpb25CoAFXaG8gZGlzY292ZXJlZCBjb2ZmZWUgdHJlZXM_IFdobyBpbnZlbnRlZCBjb2ZmZWUgYXMgd2UgZW5qb3kgaXQgbm93PyA8Yj5MZWFybiBjb2ZmZWUgaGlzdG9yeSBhbmQgaXRzIGpvdXJuZXkgYWNyb3NzIHRoZSBnbG9iZTwvYj4gZnJvbSB0aGUgOXRoIGNlbnR1cnkgdG8gdG9kYXkuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVmMtdjExeXBGV2Q3Sno5UU54OE5oZUQ2dmcwem1qallOeGh3emwteWM3ZzYzOC1YVGFxT0U5Zm13YjlpY0xCZ3FEVl9sZHdDU2FFc2tVd09UV01OZ2w0andxMUQwcDRNQ3prSFJtWm91UWV6dGoxYVJ6dldGSUYwZUh0MlBVSFRBRGhxWlkzLTY4OWt4EgQaAggAGtQDEgIIARoAIgAqADIGCAISAmNuOgBCBAgCEBBKAFoAcgB6AIJArgMIABAAGAAgACoeCgZjb2ZmZWUVoJCyQBoHY29mZmVlcxoG5ZKW5ZWhMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVmMtdjExeXBGV2Q3Sno5UU54OE5oZUQ2dmcwem1qallOeGh3emwteWM3ZzYzOC1YVGFxT0U5Zm13YjlpY0xCZ3FEVl9sZHdDU2FFc2tVd09UV01OZ2w0andxMUQwcDRNQ3prSFJtWm91UWV6dGoxYVJ6dldGSUYwZUh0MlBVSFRBRGhxWlkzLTY4OWt4OjxIaXN0b3J5IG9mIDxiPmNvZmZlZTwvYj4gLSBOQ0EgLSBOYXRpb25hbCBDb2ZmZWUgQXNzb2NpYXRpb25CoAFXaG8gZGlzY292ZXJlZCBjb2ZmZWUgdHJlZXM_IFdobyBpbnZlbnRlZCBjb2ZmZWUgYXMgd2UgZW5qb3kgaXQgbm93PyA8Yj5MZWFybiBjb2ZmZWUgaGlzdG9yeSBhbmQgaXRzIGpvdXJuZXkgYWNyb3NzIHRoZSBnbG9iZTwvYj4gZnJvbSB0aGUgOXRoIGNlbnR1cnkgdG8gdG9kYXkuIgIQAUgAWABoAA",
+      "source": "About Coffee - National Coffee Association"
+    },
+    {
+      "position": 3,
+      "title": "Coffee - The Nutrition Source",
+      "link": "https://nutritionsource.hsph.harvard.edu/food-features/coffee/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAV_H9J-AQQtMG7kAXaYK5XkUbefiUmMdZgid2J9nllq_UVMCsg064DfDQlKF87eWiZdINOep8poXtOJEIgUSd4r59WIHGnrqlSML9OdwB2Aj2JiyNKbG8hRBVZDy6cJ7hp3rPJMGXySnsbc-IJ6aM09fU&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://nutritionsource.hsph.harvard.edu › c...",
+      "favicon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsALUFgIMBLDT4alAQxHxofSe6geyqGqYfq_ulG8xZ7AxqtrgaMut9sAmMAAD-9hMqOiSHjHptUvt54aVfjd12XUcYw0Usuoa5s3XazcGtPKeaPi2NtZ_1zrEl3fPOsUFr7Z7ZVGuYBqFItbOP8baUI0fgliTVNZlgCRhf1zcc3ckA5JV6XYUPneXZmi7h6UG8gnVVD7oEnLs-1ryIakAwu9G9gXFz_sgkxB9rjEUiudIVtfF2mAJAYS7pkxtI47MP2EKcjbtW9pNG4tmXZC2SXnhxZKEGdnEhiWPSrP0P5Q-MEXEooh6XSZOImCsV9pUNnLVtiSlM3zqbLM_aBddf1SVOhPdG2wQVSRAl1MuwKwm4-X_eW-vs8xgv4l3F5vF-X-cldmwubnKxh11VrXSCHSEac7hpiTgWTZZiAAA.webp",
+      "snippet": "Various polyphenols in coffee have been shown to prevent cancer cell growth in animal studies. Coffee has also been associated with decreased estrogen levels, a ...",
+      "snippet_highlighted_words": [
+        "prevent cancer cell growth"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Various polyphenols in coffee have been shown to prevent cancer cell growth in animal studies. Coffee has also been associated with decreased estrogen levels, a ...",
+          "source_info_link": "https://nutritionsource.hsph.harvard.edu/food-features/coffee/",
+          "icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsALUFgIMBLDT4alAQxHxofSe6geyqGqYfq_ulG8xZ7AxqtrgaMut9sAmMAAD-9hMqOiSHjHptUvt54aVfjd12XUcYw0Usuoa5s3XazcGtPKeaPi2NtZ_1zrEl3fPOsUFr7Z7ZVGuYBqFItbOP8baUI0fgliTVNZlgCRhf1zcc3ckA5JV6XYUPneXZmi7h6UG8gnVVD7oEnLs-1ryIakAwu9G9gXFz_sgkxB9rjEUiudIVtfF2mAJAYS7pkxtI47MP2EKcjbtW9pNG4tmXZC2SXnhxZKEGdnEhiWPSrP0P5Q-MEXEooh6XSZOImCsV9pUNnLVtiSlM3zqbLM_aBddf1SVOhPdG2wQVSRAl1MuwKwm4-X_eW-vs8xgv4l3F5vF-X-cldmwubnKxh11VrXSCHSEac7hpiTgWTZZiAAA.webp"
+        },
+        "languages": [
+          "zh"
+        ],
+        "regions": [
+          "CN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVl9IOUotQVFRdE1HN2tBWGFZSzVYa1ViZWZpVW1NZFpnaWQySjlubGxxX1VWTUNzZzA2NERmRFFsS0Y4N2VXaVpkSU5PZXA4cG9YdE9KRUlnVVNkNHI1OVdJSEducnFsU01MOU9kd0IyQWoySml5TktiRzhoUkJWWkR5NmNKN2hwM3JQSk1HWHlTbnNiYy1JSjZhTTA5ZlUSBBoCCAAa1wMSAggBGgAiACoAMgYIAhICY246AEIECAIQEEoAWgByAHoAgkCxAwgAEAAYACAAKh4KBmNvZmZlZRWkP7NAGgdjb2ZmZWVzGgblkpbllaEyrQEvZ290bz91cmw9Q0FFU2RnSHJPekFWX0g5Si1BUVF0TUc3a0FYYVlLNVhrVWJlZmlVbU1kWmdpZDJKOW5sbHFfVVZNQ3NnMDY0RGZEUWxLRjg3ZVdpWmRJTk9lcDhwb1h0T0pFSWdVU2Q0cjU5V0lIR25ycWxTTUw5T2R3QjJBajJKaXlOS2JHOGhSQlZaRHk2Y0o3aHAzclBKTUdYeVNuc2JjLUlKNmFNMDlmVTokPGI-Q29mZmVlPC9iPiAtIFRoZSBOdXRyaXRpb24gU291cmNlQrABVmFyaW91cyBwb2x5cGhlbm9scyBpbiBjb2ZmZWUgaGF2ZSBiZWVuIHNob3duIHRvIDxiPnByZXZlbnQgY2FuY2VyIGNlbGwgZ3Jvd3RoPC9iPiBpbiBhbmltYWwgc3R1ZGllcy4gQ29mZmVlIGhhcyBhbHNvIGJlZW4gYXNzb2NpYXRlZCB3aXRoIGRlY3JlYXNlZCBlc3Ryb2dlbiBsZXZlbHMsIGEmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVl9IOUotQVFRdE1HN2tBWGFZSzVYa1ViZWZpVW1NZFpnaWQySjlubGxxX1VWTUNzZzA2NERmRFFsS0Y4N2VXaVpkSU5PZXA4cG9YdE9KRUlnVVNkNHI1OVdJSEducnFsU01MOU9kd0IyQWoySml5TktiRzhoUkJWWkR5NmNKN2hwM3JQSk1HWHlTbnNiYy1JSjZhTTA5ZlUSBBoCCAAa1wMSAggBGgAiACoAMgYIAhICY246AEIECAIQEEoAWgByAHoAgkCxAwgAEAAYACAAKh4KBmNvZmZlZRWkP7NAGgdjb2ZmZWVzGgblkpbllaEyrQEvZ290bz91cmw9Q0FFU2RnSHJPekFWX0g5Si1BUVF0TUc3a0FYYVlLNVhrVWJlZmlVbU1kWmdpZDJKOW5sbHFfVVZNQ3NnMDY0RGZEUWxLRjg3ZVdpWmRJTk9lcDhwb1h0T0pFSWdVU2Q0cjU5V0lIR25ycWxTTUw5T2R3QjJBajJKaXlOS2JHOGhSQlZaRHk2Y0o3aHAzclBKTUdYeVNuc2JjLUlKNmFNMDlmVTokPGI-Q29mZmVlPC9iPiAtIFRoZSBOdXRyaXRpb24gU291cmNlQrABVmFyaW91cyBwb2x5cGhlbm9scyBpbiBjb2ZmZWUgaGF2ZSBiZWVuIHNob3duIHRvIDxiPnByZXZlbnQgY2FuY2VyIGNlbGwgZ3Jvd3RoPC9iPiBpbiBhbmltYWwgc3R1ZGllcy4gQ29mZmVlIGhhcyBhbHNvIGJlZW4gYXNzb2NpYXRlZCB3aXRoIGRlY3JlYXNlZCBlc3Ryb2dlbiBsZXZlbHMsIGEmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "The Nutrition Source"
+    },
+    {
+      "position": 4,
+      "title": "Perfect Daily Grind: Coffee news publication",
+      "link": "https://perfectdailygrind.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVVAI2s4CHYl9pjvTED_e3-bAZTZd3eYHoqPxNgDfCZPPHxFQpPI-t10047XiyO8Jupg7CtoN-YRy0Fxiz0mDzeJB7ch7iIdWgUPA9TXmxINa5&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://perfectdailygrind.com",
+      "favicon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAACQBQCdASocABwAPtFAtFooIqgoFAEAGglADwrUgConvpqNj3B0uf7SUtSVval1IUPWrcvCAAD-_NR86VAxCWpJE_-dz3m3cVzPYlsOVLCKjHNEQSPrLc_yEVWoV32L5yd6C1LHEA4jYVUvmIv31xTkXiz2uo_zpK_kv371Jb8TLsyTXpLDL1Rd_BDDBl-h5fno_np_HxcvxR93QlNOP0932r-3JeEdBSrpJ4Xe9_hjCXR4H-ZxhEokkOl_UjM2zSgRoyy_NnjaOrOhPBGG1HJI65_g5fOYkcIwi2A72psgAA.webp",
+      "snippet": "Perfect Daily Grind is a specialty coffee and coffee news publication. We cover coffee brewing, roasting, production, coffee shops and more.",
+      "snippet_highlighted_words": [
+        "Perfect Daily Grind is a specialty coffee and coffee news publication"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Perfect Daily Grind is a specialty coffee and coffee news publication. We cover coffee brewing, roasting, production, coffee shops and more.",
+          "source_info_link": "https://perfectdailygrind.com/",
+          "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAACQBQCdASocABwAPtFAtFooIqgoFAEAGglADwrUgConvpqNj3B0uf7SUtSVval1IUPWrcvCAAD-_NR86VAxCWpJE_-dz3m3cVzPYlsOVLCKjHNEQSPrLc_yEVWoV32L5yd6C1LHEA4jYVUvmIv31xTkXiz2uo_zpK_kv371Jb8TLsyTXpLDL1Rd_BDDBl-h5fno_np_HxcvxR93QlNOP0932r-3JeEdBSrpJ4Xe9_hjCXR4H-ZxhEokkOl_UjM2zSgRoyy_NnjaOrOhPBGG1HJI65_g5fOYkcIwi2A72psgAA.webp"
+        },
+        "languages": [
+          "zh"
+        ],
+        "regions": [
+          "CN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVlZBSTJzNENIWWw5cGp2VEVEX2UzLWJBWlRaZDNlWUhvcVB4TmdEZkNaUFBIeEZRcFBJLXQxMDA0N1hpeU84SnVwZzdDdG9OLVlSeTBGeGl6MG1EemVKQjdjaDdpSWRXZ1VQQTlUWG14SU5hNRIEGgIIABqeAxICCAAaACIAKgAyBggCEgJjbjoAQgQIAhAQSgBaAHIAegCCQPgCCAAQABgAIAAqHgoGY29mZmVlFcxtqkAaB2NvZmZlZXMaBuWSluWVoTKCAS9nb3RvP3VybD1DQUVTVmdIck96QVZWQUkyczRDSFlsOXBqdlRFRF9lMy1iQVpUWmQzZVlIb3FQeE5nRGZDWlBQSHhGUXBQSS10MTAwNDdYaXlPOEp1cGc3Q3RvTi1ZUnkwRnhpejBtRHplSkI3Y2g3aUlkV2dVUEE5VFhteElOYTU6M1BlcmZlY3QgRGFpbHkgR3JpbmQ6IDxiPkNvZmZlZTwvYj4gbmV3cyBwdWJsaWNhdGlvbkKTATxiPlBlcmZlY3QgRGFpbHkgR3JpbmQgaXMgYSBzcGVjaWFsdHkgY29mZmVlIGFuZCBjb2ZmZWUgbmV3cyBwdWJsaWNhdGlvbjwvYj4uIFdlIGNvdmVyIGNvZmZlZSBicmV3aW5nLCByb2FzdGluZywgcHJvZHVjdGlvbiwgY29mZmVlIHNob3BzIGFuZCBtb3JlLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVlZBSTJzNENIWWw5cGp2VEVEX2UzLWJBWlRaZDNlWUhvcVB4TmdEZkNaUFBIeEZRcFBJLXQxMDA0N1hpeU84SnVwZzdDdG9OLVlSeTBGeGl6MG1EemVKQjdjaDdpSWRXZ1VQQTlUWG14SU5hNRIEGgIIABqeAxICCAAaACIAKgAyBggCEgJjbjoAQgQIAhAQSgBaAHIAegCCQPgCCAAQABgAIAAqHgoGY29mZmVlFcxtqkAaB2NvZmZlZXMaBuWSluWVoTKCAS9nb3RvP3VybD1DQUVTVmdIck96QVZWQUkyczRDSFlsOXBqdlRFRF9lMy1iQVpUWmQzZVlIb3FQeE5nRGZDWlBQSHhGUXBQSS10MTAwNDdYaXlPOEp1cGc3Q3RvTi1ZUnkwRnhpejBtRHplSkI3Y2g3aUlkV2dVUEE5VFhteElOYTU6M1BlcmZlY3QgRGFpbHkgR3JpbmQ6IDxiPkNvZmZlZTwvYj4gbmV3cyBwdWJsaWNhdGlvbkKTATxiPlBlcmZlY3QgRGFpbHkgR3JpbmQgaXMgYSBzcGVjaWFsdHkgY29mZmVlIGFuZCBjb2ZmZWUgbmV3cyBwdWJsaWNhdGlvbjwvYj4uIFdlIGNvdmVyIGNvZmZlZSBicmV3aW5nLCByb2FzdGluZywgcHJvZHVjdGlvbiwgY29mZmVlIHNob3BzIGFuZCBtb3JlLiICEAFIAFgAaAA",
+      "source": "Perfect Daily Grind"
+    },
+    {
+      "position": 5,
+      "title": "A specialty coffee guide to China",
+      "link": "https://www.beanportal.com/blog/a-specialty-coffee-guide-to-china",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVeqRSTuWx1afj0mlq_nGbLrhGW19FeTeWnDPJ25mPG7sdkwzL9h72zz_rzfE_PmcfcPt0wwHO22Ve6ohQQR1KhkzPyg2jape_KHslgW3fmJokCIN9bWYuO9cKzZFuD8kvaksFeCZbURUoZHZWnKBiZO2Mi28&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQFnoECEQQAQ&uoh=1",
+      "displayed_link": "https://www.beanportal.com › blog › a-speci...",
+      "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAABwBQCdASogAB8APtEwtFooIigoGAEAGglqAKknVe9BM4DBX-ov1_HNMzzK2AjTx0NuWrCAAP72ESM_6QD0yplabkj-SoClzk-kMZ8ENvUbA9WuEQhT8jXxE9rzs4lIzgNIad2frr4Y_OtH8aONwXiQDBr5Lrfj0c_vo5PyLEeZdTNPaD0CTZVsqFE38YQtMTSKHIs2FFH8mtjc7XC9qp2JtTEdupGLYzSNtIdgLevfD2D3Kzh57fWklyAi5RmIY5i_mezhYOwiEVSbb0ykA0OwBkO57T_c7hCKmUqe98SnSnuAJkPTrLNSMAAAAA.webp",
+      "date": "2024年1月9日",
+      "snippet": "In a country where the coffee scene is booming comes a surprisingly strong specialty coffee scene. China both produce and roast coffee, ...",
+      "snippet_highlighted_words": [
+        "China both produce and roast coffee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In a country where the coffee scene is booming comes a surprisingly strong specialty coffee scene. China both produce and roast coffee, ...",
+          "source_info_link": "https://www.beanportal.com/blog/a-specialty-coffee-guide-to-china",
+          "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAABwBQCdASogAB8APtEwtFooIigoGAEAGglqAKknVe9BM4DBX-ov1_HNMzzK2AjTx0NuWrCAAP72ESM_6QD0yplabkj-SoClzk-kMZ8ENvUbA9WuEQhT8jXxE9rzs4lIzgNIad2frr4Y_OtH8aONwXiQDBr5Lrfj0c_vo5PyLEeZdTNPaD0CTZVsqFE38YQtMTSKHIs2FFH8mtjc7XC9qp2JtTEdupGLYzSNtIdgLevfD2D3Kzh57fWklyAi5RmIY5i_mezhYOwiEVSbb0ykA0OwBkO57T_c7hCKmUqe98SnSnuAJkPTrLNSMAAAAA.webp"
+        },
+        "languages": [
+          "zh"
+        ],
+        "regions": [
+          "CN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmVxUlNUdVd4MWFmajBtbHFfbkdiTHJoR1cxOUZlVGVXbkRQSjI1bVBHN3Nka3d6TDloNzJ6el9yemZFX1BtY2ZjUHQwd3dITzIyVmU2b2hRUVIxS2hrelB5ZzJqYXBlX0tIc2xnVzNmbUpva0NJTjliV1l1TzljS3paRnVEOGt2YWtzRmVDWmJVUlVvWkhaV25LQmlaTzJNaTI4EgQaAggAGtQDEgIIABoAIgAqADIGCAMSAmNuOgBCBAgCEBBKAFoAcgB6AIJArgMIABAAGAAgACoeCgZjb2ZmZWUV-7nRQBoHY29mZmVlcxoG5ZKW5ZWhMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmVxUlNUdVd4MWFmajBtbHFfbkdiTHJoR1cxOUZlVGVXbkRQSjI1bVBHN3Nka3d6TDloNzJ6el9yemZFX1BtY2ZjUHQwd3dITzIyVmU2b2hRUVIxS2hrelB5ZzJqYXBlX0tIc2xnVzNmbUpva0NJTjliV1l1TzljS3paRnVEOGt2YWtzRmVDWmJVUlVvWkhaV25LQmlaTzJNaTI4OjZBIHNwZWNpYWx0eSA8Yj5jb2ZmZWU8L2I-IGd1aWRlIHRvIENoaW5hIC0gQmVhbiBQb3J0YWxClwFJbiBhIGNvdW50cnkgd2hlcmUgdGhlIGNvZmZlZSBzY2VuZSBpcyBib29taW5nIGNvbWVzIGEgc3VycHJpc2luZ2x5IHN0cm9uZyBzcGVjaWFsdHkgY29mZmVlIHNjZW5lLiA8Yj5DaGluYSBib3RoIHByb2R1Y2UgYW5kIHJvYXN0IGNvZmZlZTwvYj4sJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmVxUlNUdVd4MWFmajBtbHFfbkdiTHJoR1cxOUZlVGVXbkRQSjI1bVBHN3Nka3d6TDloNzJ6el9yemZFX1BtY2ZjUHQwd3dITzIyVmU2b2hRUVIxS2hrelB5ZzJqYXBlX0tIc2xnVzNmbUpva0NJTjliV1l1TzljS3paRnVEOGt2YWtzRmVDWmJVUlVvWkhaV25LQmlaTzJNaTI4EgQaAggAGtQDEgIIABoAIgAqADIGCAMSAmNuOgBCBAgCEBBKAFoAcgB6AIJArgMIABAAGAAgACoeCgZjb2ZmZWUV-7nRQBoHY29mZmVlcxoG5ZKW5ZWhMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmVxUlNUdVd4MWFmajBtbHFfbkdiTHJoR1cxOUZlVGVXbkRQSjI1bVBHN3Nka3d6TDloNzJ6el9yemZFX1BtY2ZjUHQwd3dITzIyVmU2b2hRUVIxS2hrelB5ZzJqYXBlX0tIc2xnVzNmbUpva0NJTjliV1l1TzljS3paRnVEOGt2YWtzRmVDWmJVUlVvWkhaV25LQmlaTzJNaTI4OjZBIHNwZWNpYWx0eSA8Yj5jb2ZmZWU8L2I-IGd1aWRlIHRvIENoaW5hIC0gQmVhbiBQb3J0YWxClwFJbiBhIGNvdW50cnkgd2hlcmUgdGhlIGNvZmZlZSBzY2VuZSBpcyBib29taW5nIGNvbWVzIGEgc3VycHJpc2luZ2x5IHN0cm9uZyBzcGVjaWFsdHkgY29mZmVlIHNjZW5lLiA8Yj5DaGluYSBib3RoIHByb2R1Y2UgYW5kIHJvYXN0IGNvZmZlZTwvYj4sJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Bean Portal"
+    },
+    {
+      "position": 6,
+      "title": "Coffee | Origin, Types, Uses, History, & Facts",
+      "link": "https://www.britannica.com/topic/coffee",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAV9HQelW-sRBlSIJWL7Lv9kmNU9GCcweFDUYqlcLNIiF2pyDlsv1-IEZa6Xmo_OYtDaxWgJd3-HlCLJmRf-zlmXUrJDyikhXwBPINzH1VkE-aj1B5v93UnQNxi&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQFnoECEIQAQ&uoh=1",
+      "displayed_link": "https://www.britannica.com › ... › Food",
+      "favicon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAADwCACdASogACAAPtE-tFooIigoFAEAGglqAJ0yy8Z4HYK8ufftA9jv017Af6x-kB7APQrTb2N0E-CzEqWCas8PAGtfs_hy1cd_Q-LxctPZgAD-0olmCDofFrwKNFJefRmYKRj8vZV0-MDEa3lnaI83UKUXRFf6nDzQB5JS4_F7TveOvzOY-fcRKtGW56THLd_2CUOwdS_0VZCKBSj_6uThdoY_tS3o3suv43iMshKMU0cih3wGuNpo2cEMKi7voFu7nl7B2UZT0UQOP_Gw33S6P-tlvj-N6MYNXDLikRV6L_jeJfhqBckx77otMycRIceJ6Z_TVxM_CspTu9nbuGuaNKZ7UQ91cLlucL5S_x0upmNDhJO51OvZr2ztTM7Q6aCPRMJfWNXyJlg16k3-zkqTn9IhOYJoCWagmE5A4-P28BP9L0NTEB_VayiHJyZ0J9WBpXLaF0y7pzd_x4T7lN2KEnk0EHPB0oa_Ro4EySv9WmrmEs5UjpKBDugoP2tQ8egNslCHCcL1Ib6jKNKNZ1gOqXq3JVAg-8-2opbfs2D56-nN7OcWhW1xCS3TXFBtN4BRG_AAAAA.webp",
+      "date": "4天前",
+      "snippet": "Coffee, beverage brewed from the roasted and ground seeds of the tropical evergreen coffee plant of African origin. Coffee is one of the ...",
+      "snippet_highlighted_words": [
+        "Coffee",
+        "coffee",
+        "Coffee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Coffee, beverage brewed from the roasted and ground seeds of the tropical evergreen coffee plant of African origin. Coffee is one of the ...",
+          "source_info_link": "https://www.britannica.com/topic/coffee",
+          "icon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAADwCACdASogACAAPtE-tFooIigoFAEAGglqAJ0yy8Z4HYK8ufftA9jv017Af6x-kB7APQrTb2N0E-CzEqWCas8PAGtfs_hy1cd_Q-LxctPZgAD-0olmCDofFrwKNFJefRmYKRj8vZV0-MDEa3lnaI83UKUXRFf6nDzQB5JS4_F7TveOvzOY-fcRKtGW56THLd_2CUOwdS_0VZCKBSj_6uThdoY_tS3o3suv43iMshKMU0cih3wGuNpo2cEMKi7voFu7nl7B2UZT0UQOP_Gw33S6P-tlvj-N6MYNXDLikRV6L_jeJfhqBckx77otMycRIceJ6Z_TVxM_CspTu9nbuGuaNKZ7UQ91cLlucL5S_x0upmNDhJO51OvZr2ztTM7Q6aCPRMJfWNXyJlg16k3-zkqTn9IhOYJoCWagmE5A4-P28BP9L0NTEB_VayiHJyZ0J9WBpXLaF0y7pzd_x4T7lN2KEnk0EHPB0oa_Ro4EySv9WmrmEs5UjpKBDugoP2tQ8egNslCHCcL1Ib6jKNKNZ1gOqXq3JVAg-8-2opbfs2D56-nN7OcWhW1xCS3TXFBtN4BRG_AAAAA.webp"
+        },
+        "languages": [
+          "zh"
+        ],
+        "regions": [
+          "CN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVjlIUWVsVy1zUkJsU0lKV0w3THY5a21OVTlHQ2N3ZUZEVVlxbGNMTklpRjJweURsc3YxLUlFWmE2WG1vX09ZdERheFdnSmQzLUhsQ0xKbVJmLXpsbVhVckpEeWlraFh3QlBJTnpIMVZrRS1hajFCNXY5M1VuUU54aRIEGgIIABrSAxICCAEaACICCAEqADIGCAISAmNuOgBCBAgCEBBKAFoAcgB6AIJAqgMIABAAGAAgACoeCgZjb2ZmZWUV8v3TQBoHY29mZmVlcxoG5ZKW5ZWhMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVjlIUWVsVy1zUkJsU0lKV0w3THY5a21OVTlHQ2N3ZUZEVVlxbGNMTklpRjJweURsc3YxLUlFWmE2WG1vX09ZdERheFdnSmQzLUhsQ0xKbVJmLXpsbVhVckpEeWlraFh3QlBJTnpIMVZrRS1hajFCNXY5M1VuUU54aTpGPGI-Q29mZmVlPC9iPiB8IE9yaWdpbiwgVHlwZXMsIFVzZXMsIEhpc3RvcnksICZhbXA7IEZhY3RzIC0gQnJpdGFubmljYUKmATxiPkNvZmZlZTwvYj4sIGJldmVyYWdlIGJyZXdlZCBmcm9tIHRoZSByb2FzdGVkIGFuZCBncm91bmQgc2VlZHMgb2YgdGhlIHRyb3BpY2FsIGV2ZXJncmVlbiA8Yj5jb2ZmZWU8L2I-IHBsYW50IG9mIEFmcmljYW4gb3JpZ2luLiA8Yj5Db2ZmZWU8L2I-IGlzIG9uZSBvZiB0aGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVjlIUWVsVy1zUkJsU0lKV0w3THY5a21OVTlHQ2N3ZUZEVVlxbGNMTklpRjJweURsc3YxLUlFWmE2WG1vX09ZdERheFdnSmQzLUhsQ0xKbVJmLXpsbVhVckpEeWlraFh3QlBJTnpIMVZrRS1hajFCNXY5M1VuUU54aRIEGgIIABrSAxICCAEaACICCAEqADIGCAISAmNuOgBCBAgCEBBKAFoAcgB6AIJAqgMIABAAGAAgACoeCgZjb2ZmZWUV8v3TQBoHY29mZmVlcxoG5ZKW5ZWhMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVjlIUWVsVy1zUkJsU0lKV0w3THY5a21OVTlHQ2N3ZUZEVVlxbGNMTklpRjJweURsc3YxLUlFWmE2WG1vX09ZdERheFdnSmQzLUhsQ0xKbVJmLXpsbVhVckpEeWlraFh3QlBJTnpIMVZrRS1hajFCNXY5M1VuUU54aTpGPGI-Q29mZmVlPC9iPiB8IE9yaWdpbiwgVHlwZXMsIFVzZXMsIEhpc3RvcnksICZhbXA7IEZhY3RzIC0gQnJpdGFubmljYUKmATxiPkNvZmZlZTwvYj4sIGJldmVyYWdlIGJyZXdlZCBmcm9tIHRoZSByb2FzdGVkIGFuZCBncm91bmQgc2VlZHMgb2YgdGhlIHRyb3BpY2FsIGV2ZXJncmVlbiA8Yj5jb2ZmZWU8L2I-IHBsYW50IG9mIEFmcmljYW4gb3JpZ2luLiA8Yj5Db2ZmZWU8L2I-IGlzIG9uZSBvZiB0aGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Britannica"
+    },
+    {
+      "position": 7,
+      "title": "COFFEE | English meaning - Cambridge Dictionary",
+      "link": "https://dictionary.cambridge.org/dictionary/english/coffee",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAV5kiszneSHN-UOTB4j7ecFx1xCnSkFekMk-l3LRH_zj59uLV3C8onuWDtStkLQM-oAfdypxHmXDlKLWHw6iSexydcYF-oh0UFrafCRegWPAcCBohxtj9zFM0cISTbkffksJpEvvri28vvgtIkPQ&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQFnoECEUQAQ&uoh=1",
+      "displayed_link": "https://dictionary.cambridge.org › dictionary › coffee",
+      "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAACwBQCdASocABwAPtE-tFooIigoFAEAGgloAJ0zItYBvHREVHkXpPXDWGzTc4H3jF3iXaBhwAAA_vtpBwG61WLVtQXys1U_1yASv-Ef5w8c_CIUsn_wwgNjxQLvmk__sVjppdBYJMRtfxFNHEvkHx0f8-zNn6-JxYcceg26U8_wkm578Wlf2dPLXfU1pT-jxXGgSRjEtx-MVBwZ1m-ZW29GO6_fiqTKagOeTHnoT7LP7zjZIEoPrFtg-KRlPy_KLDpMwG2UbDwBjhU35xXw_zuIY5rrk_GJPIAonnUuAb-TS7WasKzQ17jGOjczOidPI4W5WMfZ-IU4KAAA.webp",
+      "date": "6天前",
+      "snippet": "a tropical bush whose seeds, called coffee beans, can be crushed into a dark brown powder with a strong flavour and smell that is used for ...",
+      "snippet_highlighted_words": [
+        "coffee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "a tropical bush whose seeds, called coffee beans, can be crushed into a dark brown powder with a strong flavour and smell that is used for ...",
+          "source_info_link": "https://dictionary.cambridge.org/dictionary/english/coffee",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAACwBQCdASocABwAPtE-tFooIigoFAEAGgloAJ0zItYBvHREVHkXpPXDWGzTc4H3jF3iXaBhwAAA_vtpBwG61WLVtQXys1U_1yASv-Ef5w8c_CIUsn_wwgNjxQLvmk__sVjppdBYJMRtfxFNHEvkHx0f8-zNn6-JxYcceg26U8_wkm578Wlf2dPLXfU1pT-jxXGgSRjEtx-MVBwZ1m-ZW29GO6_fiqTKagOeTHnoT7LP7zjZIEoPrFtg-KRlPy_KLDpMwG2UbDwBjhU35xXw_zuIY5rrk_GJPIAonnUuAb-TS7WasKzQ17jGOjczOidPI4W5WMfZ-IU4KAAA.webp"
+        },
+        "languages": [
+          "zh"
+        ],
+        "regions": [
+          "CN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVjVraXN6bmVTSE4tVU9UQjRqN2VjRngxeENuU2tGZWtNay1sM0xSSF96ajU5dUxWM0M4b251V0R0U3RrTFFNLW9BZmR5cHhIbVhEbEtMV0h3NmlTZXh5ZGNZRi1vaDBVRnJhZkNSZWdXUEFjQ0JvaHh0ajl6Rk0wY0lTVGJrZmZrc0pwRXZ2cmkyOHZ2Z3RJa1BREgQaAggAGtADEgIIARoAIgIIASoAMgYIAhICY246AEIECAIQEEoAWgByAHoAgkCoAwgAEAAYACAAKh4KBmNvZmZlZRUMutFAGgdjb2ZmZWVzGgblkpbllaEyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWNWtpc3puZVNITi1VT1RCNGo3ZWNGeDF4Q25Ta0Zla01rLWwzTFJIX3pqNTl1TFYzQzhvbnVXRHRTdGtMUU0tb0FmZHlweEhtWERsS0xXSHc2aVNleHlkY1lGLW9oMFVGcmFmQ1JlZ1dQQWNDQm9oeHRqOXpGTTBjSVNUYmtmZmtzSnBFdnZyaTI4dnZndElrUFE6NjxiPkNPRkZFRTwvYj4gfCBFbmdsaXNoIG1lYW5pbmcgLSBDYW1icmlkZ2UgRGljdGlvbmFyeUKaAWEgdHJvcGljYWwgYnVzaCB3aG9zZSBzZWVkcywgY2FsbGVkIDxiPmNvZmZlZTwvYj4gYmVhbnMsIGNhbiBiZSBjcnVzaGVkIGludG8gYSBkYXJrIGJyb3duIHBvd2RlciB3aXRoIGEgc3Ryb25nIGZsYXZvdXIgYW5kIHNtZWxsIHRoYXQgaXMgdXNlZCBmb3ImbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVjVraXN6bmVTSE4tVU9UQjRqN2VjRngxeENuU2tGZWtNay1sM0xSSF96ajU5dUxWM0M4b251V0R0U3RrTFFNLW9BZmR5cHhIbVhEbEtMV0h3NmlTZXh5ZGNZRi1vaDBVRnJhZkNSZWdXUEFjQ0JvaHh0ajl6Rk0wY0lTVGJrZmZrc0pwRXZ2cmkyOHZ2Z3RJa1BREgQaAggAGtADEgIIARoAIgIIASoAMgYIAhICY246AEIECAIQEEoAWgByAHoAgkCoAwgAEAAYACAAKh4KBmNvZmZlZRUMutFAGgdjb2ZmZWVzGgblkpbllaEyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWNWtpc3puZVNITi1VT1RCNGo3ZWNGeDF4Q25Ta0Zla01rLWwzTFJIX3pqNTl1TFYzQzhvbnVXRHRTdGtMUU0tb0FmZHlweEhtWERsS0xXSHc2aVNleHlkY1lGLW9oMFVGcmFmQ1JlZ1dQQWNDQm9oeHRqOXpGTTBjSVNUYmtmZmtzSnBFdnZyaTI4dnZndElrUFE6NjxiPkNPRkZFRTwvYj4gfCBFbmdsaXNoIG1lYW5pbmcgLSBDYW1icmlkZ2UgRGljdGlvbmFyeUKaAWEgdHJvcGljYWwgYnVzaCB3aG9zZSBzZWVkcywgY2FsbGVkIDxiPmNvZmZlZTwvYj4gYmVhbnMsIGNhbiBiZSBjcnVzaGVkIGludG8gYSBkYXJrIGJyb3duIHBvd2RlciB3aXRoIGEgc3Ryb25nIGZsYXZvdXIgYW5kIHNtZWxsIHRoYXQgaXMgdXNlZCBmb3ImbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Cambridge Dictionary"
+    },
+    {
+      "position": 8,
+      "title": "What is coffee? - NCA - About Coffee",
+      "link": "https://www.aboutcoffee.org/origins/what-is-coffee/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVshSE7OIWNc4EOqDA-iRBFTOjM6lYagW3dAx6I02NROd5bsDgjz4G_RRFxwnyEW7BI7TFF-YQ9VP1u42VZJImWinl3LFKudPjjrCjtbbZ_1klPOM8zhtky-JsAngDQ4QZblce58u7&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQFnoECEYQAQ&uoh=1",
+      "displayed_link": "https://www.aboutcoffee.org › Origins",
+      "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAABwBQCdASocABwAPtEutFooIagoGAEAGgljAMOtixjfbHLYVsTDuoscPWbWoeRPCvfzc0AAAP72Chvg2npf1skRMw818Rqt1D3XKdZYsp7fb2CUsenXdPccpUqsT2yYwad4HtKpc4z0eeMNhzE5Mx-j0T850-O1HCXfB3Fsj1kgOd-iFAqxGuiJwV-LoM-Tl_8o0TXE_EZkKo3X9cy6DV3YtR4fwxke0YneUMvK47-66Dd6JXwcgpofQca5n1n38NkO1qlmNJNkcj8EIvpHM3CCvUINvtoAAAA.webp",
+      "snippet": "What is coffee made of? Learn about the coffee tree, its lifespan, how it produces coffee beans, and the two most common coffee species, ...",
+      "snippet_highlighted_words": [
+        "Learn about the coffee tree, its lifespan, how it produces coffee beans"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What is coffee made of? Learn about the coffee tree, its lifespan, how it produces coffee beans, and the two most common coffee species, ...",
+          "source_info_link": "https://www.aboutcoffee.org/origins/what-is-coffee/",
+          "icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAABwBQCdASocABwAPtEutFooIagoGAEAGgljAMOtixjfbHLYVsTDuoscPWbWoeRPCvfzc0AAAP72Chvg2npf1skRMw818Rqt1D3XKdZYsp7fb2CUsenXdPccpUqsT2yYwad4HtKpc4z0eeMNhzE5Mx-j0T850-O1HCXfB3Fsj1kgOd-iFAqxGuiJwV-LoM-Tl_8o0TXE_EZkKo3X9cy6DV3YtR4fwxke0YneUMvK47-66Dd6JXwcgpofQca5n1n38NkO1qlmNJNkcj8EIvpHM3CCvUINvtoAAAA.webp"
+        },
+        "languages": [
+          "zh"
+        ],
+        "regions": [
+          "CN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnNoU0U3T0lXTmM0RU9xREEtaVJCRlRPak02bFlhZ1czZEF4NkkwMk5ST2Q1YnNEZ2p6NEdfUlJGeHdueUVXN0JJN1RGRi1ZUTlWUDF1NDJWWkpJbVdpbmwzTEZLdWRQampyQ2p0YmJaXzFrbFBPTTh6aHRreS1Kc0FuZ0RRNFFaYmxjZTU4dTcSBBoCCAAavgMSAggBGgAiACoAMgYIAhICY246AEIECAIQEEoAWgByAHoAgkCYAwgAEAAYACAAKh4KBmNvZmZlZRUgNsJAGgdjb2ZmZWVzGgblkpbllaEyngEvZ290bz91cmw9Q0FFU2F3SHJPekFWc2hTRTdPSVdOYzRFT3FEQS1pUkJGVE9qTTZsWWFnVzNkQXg2STAyTlJPZDVic0Rnano0R19SUkZ4d255RVc3Qkk3VEZGLVlROVZQMXU0MlZaSkltV2lubDNMRkt1ZFBqanJDanRiYlpfMWtsUE9NOHpodGt5LUpzQW5nRFE0UVpibGNlNTh1NzoyV2hhdCBpcyA8Yj5jb2ZmZWU8L2I-PyAtIE5DQSAtIEFib3V0IDxiPkNvZmZlZTwvYj5CmAFXaGF0IGlzIGNvZmZlZSBtYWRlIG9mPyA8Yj5MZWFybiBhYm91dCB0aGUgY29mZmVlIHRyZWUsIGl0cyBsaWZlc3BhbiwgaG93IGl0IHByb2R1Y2VzIGNvZmZlZSBiZWFuczwvYj4sIGFuZCB0aGUgdHdvIG1vc3QgY29tbW9uIGNvZmZlZSBzcGVjaWVzLCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnNoU0U3T0lXTmM0RU9xREEtaVJCRlRPak02bFlhZ1czZEF4NkkwMk5ST2Q1YnNEZ2p6NEdfUlJGeHdueUVXN0JJN1RGRi1ZUTlWUDF1NDJWWkpJbVdpbmwzTEZLdWRQampyQ2p0YmJaXzFrbFBPTTh6aHRreS1Kc0FuZ0RRNFFaYmxjZTU4dTcSBBoCCAAavgMSAggBGgAiACoAMgYIAhICY246AEIECAIQEEoAWgByAHoAgkCYAwgAEAAYACAAKh4KBmNvZmZlZRUgNsJAGgdjb2ZmZWVzGgblkpbllaEyngEvZ290bz91cmw9Q0FFU2F3SHJPekFWc2hTRTdPSVdOYzRFT3FEQS1pUkJGVE9qTTZsWWFnVzNkQXg2STAyTlJPZDVic0Rnano0R19SUkZ4d255RVc3Qkk3VEZGLVlROVZQMXU0MlZaSkltV2lubDNMRkt1ZFBqanJDanRiYlpfMWtsUE9NOHpodGt5LUpzQW5nRFE0UVpibGNlNTh1NzoyV2hhdCBpcyA8Yj5jb2ZmZWU8L2I-PyAtIE5DQSAtIEFib3V0IDxiPkNvZmZlZTwvYj5CmAFXaGF0IGlzIGNvZmZlZSBtYWRlIG9mPyA8Yj5MZWFybiBhYm91dCB0aGUgY29mZmVlIHRyZWUsIGl0cyBsaWZlc3BhbiwgaG93IGl0IHByb2R1Y2VzIGNvZmZlZSBiZWFuczwvYj4sIGFuZCB0aGUgdHdvIG1vc3QgY29tbW9uIGNvZmZlZSBzcGVjaWVzLCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "About Coffee - National Coffee Association"
+    },
+    {
+      "position": 9,
+      "title": "Toffee Coffee Roasters | Sourcing & Roasting Finest Coffee ...",
+      "link": "https://toffeecoffeeroasters.com/?srsltid=AU7gw4UfbvlUt7vbznOapzcUFnSZsZR7X2e4FWDorb3B96_XesD4UC9_",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFV5xwlwehkgSotjrblISWcBmlYblYmSpVi44WgonUcssh61xo5SHUYuTtizVo0fpr5RVeT43QssmvmVCGaK8FF9fwIcIBI9QMAjgYPAoHuwL4UvTHZeFVnATfBUrDog3PxZU4ziOHHvONA1tSXMGvwpVyLsCuCm74MqiDQzuoxJWz3B-ZA_ZFByul1AE51o_Tv10qg6V&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQFnoECEcQAQ&uoh=1",
+      "displayed_link": "https://toffeecoffeeroasters.com",
+      "favicon": "https://serpapi.com/images/i/UklGRvIAAABXRUJQVlA4IOYAAABwBQCdASogACAAPtE-tFooIigoFAEAGgllAARCTyA049_iXstXqCRkHdl8YyPVv2EfWbyAAP718LtMq_joH_LzYl_JIfRYLbndLhXj9qpPf5USkNg4JciZjDyTIctIBQrLwfhaye3ZD6yq1wEt3aWvSHUZT9XeXe560tHSt9Da11BHrvrEb_UmelLPNE9-drx_166NojRhiQhT60AslBy3fNVawIE1roBAjnpQ1j8DTglHWd5nHe3zAvOmYrqwTtDmk18rTtrj7qd6WpBi2Gy-0wcVrjPhFeApdcna_xCEqfyh8ogAAA.webp",
+      "snippet": "Toffee Coffee Roasters brings you fresh single estate 100% Arabica coffee beans, roasted with care, from the finest estates across Asia.",
+      "snippet_highlighted_words": [
+        "fresh single estate 100% Arabica coffee beans"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Toffee Coffee Roasters brings you fresh single estate 100% Arabica coffee beans, roasted with care, from the finest estates across Asia.",
+          "source_info_link": "https://toffeecoffeeroasters.com/?srsltid=AU7gw4UfbvlUt7vbznOapzcUFnSZsZR7X2e4FWDorb3B96_XesD4UC9_",
+          "icon": "https://serpapi.com/images/i/UklGRvIAAABXRUJQVlA4IOYAAABwBQCdASogACAAPtE-tFooIigoFAEAGgllAARCTyA049_iXstXqCRkHdl8YyPVv2EfWbyAAP718LtMq_joH_LzYl_JIfRYLbndLhXj9qpPf5USkNg4JciZjDyTIctIBQrLwfhaye3ZD6yq1wEt3aWvSHUZT9XeXe560tHSt9Da11BHrvrEb_UmelLPNE9-drx_166NojRhiQhT60AslBy3fNVawIE1roBAjnpQ1j8DTglHWd5nHe3zAvOmYrqwTtDmk18rTtrj7qd6WpBi2Gy-0wcVrjPhFeApdcna_xCEqfyh8ogAAA.webp"
+        },
+        "languages": [
+          "zh"
+        ],
+        "regions": [
+          "CN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZWNXh3bHdlaGtnU290anJibElTV2NCbWxZYmxZbVNwVmk0NFdnb25VY3NzaDYxeG81U0hVWXVUdGl6Vm8wZnByNVJWZVQ0M1Fzc212bVZDR2FLOEZGOWZ3SWNJQkk5UU1BamdZUEFvSHV3TDRVdlRIWmVGVm5BVGZCVXJEb2czUHhaVTR6aU9ISHZPTkExdFNYTUd2d3BWeUxzQ3VDbTc0TXFpRFF6dW94Sld6M0ItWkFfWkZCeXVsMUFFNTFvX1R2MTBxZzZWEgQaAggAGrsDEgIIABoAIgAqADIGCAISAmNuOgBCBAgCEBBKAFoAcgB6AIJAlQMIABAAGAAgACoeCgZjb2ZmZWUVvY3dQBoHY29mZmVlcxoG5ZKW5ZWhMoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVnE4S2pDenk4X1dTZXN0NFk2Ny1GMkRKdDR3ZF9maGFlbTk4aUZ6UjUtcVBLcGkwczlUdEJYa09LM3o0UHJZRjk0aVdTUHZXTlFWQ3VtVURTTzBwYnZ5NThLamZnanRVZVB0M3FtQUlTc3RqdDhuRnM6UFRvZmZlZSA8Yj5Db2ZmZWU8L2I-IFJvYXN0ZXJzIHwgU291cmNpbmcgJmFtcDsgUm9hc3RpbmcgRmluZXN0IDxiPkNvZmZlZTwvYj4gLi4uQo8BVG9mZmVlIENvZmZlZSBSb2FzdGVycyBicmluZ3MgeW91IDxiPmZyZXNoIHNpbmdsZSBlc3RhdGUgMTAwJSBBcmFiaWNhIGNvZmZlZSBiZWFuczwvYj4sIHJvYXN0ZWQgd2l0aCBjYXJlLCBmcm9tIHRoZSBmaW5lc3QgZXN0YXRlcyBhY3Jvc3MgQXNpYS4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZWNXh3bHdlaGtnU290anJibElTV2NCbWxZYmxZbVNwVmk0NFdnb25VY3NzaDYxeG81U0hVWXVUdGl6Vm8wZnByNVJWZVQ0M1Fzc212bVZDR2FLOEZGOWZ3SWNJQkk5UU1BamdZUEFvSHV3TDRVdlRIWmVGVm5BVGZCVXJEb2czUHhaVTR6aU9ISHZPTkExdFNYTUd2d3BWeUxzQ3VDbTc0TXFpRFF6dW94Sld6M0ItWkFfWkZCeXVsMUFFNTFvX1R2MTBxZzZWEgQaAggAGrsDEgIIABoAIgAqADIGCAISAmNuOgBCBAgCEBBKAFoAcgB6AIJAlQMIABAAGAAgACoeCgZjb2ZmZWUVvY3dQBoHY29mZmVlcxoG5ZKW5ZWhMoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVnE4S2pDenk4X1dTZXN0NFk2Ny1GMkRKdDR3ZF9maGFlbTk4aUZ6UjUtcVBLcGkwczlUdEJYa09LM3o0UHJZRjk0aVdTUHZXTlFWQ3VtVURTTzBwYnZ5NThLamZnanRVZVB0M3FtQUlTc3RqdDhuRnM6UFRvZmZlZSA8Yj5Db2ZmZWU8L2I-IFJvYXN0ZXJzIHwgU291cmNpbmcgJmFtcDsgUm9hc3RpbmcgRmluZXN0IDxiPkNvZmZlZTwvYj4gLi4uQo8BVG9mZmVlIENvZmZlZSBSb2FzdGVycyBicmluZ3MgeW91IDxiPmZyZXNoIHNpbmdsZSBlc3RhdGUgMTAwJSBBcmFiaWNhIGNvZmZlZSBiZWFuczwvYj4sIHJvYXN0ZWQgd2l0aCBjYXJlLCBmcm9tIHRoZSBmaW5lc3QgZXN0YXRlcyBhY3Jvc3MgQXNpYS4iAhABSABYAGgA",
+      "source": "Toffee Coffee Roasters"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "蔬菜",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSbvEQZn07u1gC5f62EQu991hJad6c9ziHMHD90dv1-FIbPUT6ls01ZLZw&s=19",
+          "link": "https://www.google.com/search?sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yaKrW8N4nSHvLJzVfJFWTP51rhadxSyQpyv3oqwGe2HV5h2jTVRMVUi3vlpgWFtDT2yBNoF2VpN-d1ezCfzo4dT4hDAM3vUmlAV5JuWF_7fxuMbavDqBkIFtvx6UxP1gvAg6-dxgyFKZO8Ko1OuUXFX7AkyU&q=%E8%94%AC%E8%8F%9C&sa=X&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQs9oBKAB6BAhmEAo",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%94%AC%E8%8F%9C&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yaKrW8N4nSHvLJzVfJFWTP51rhadxSyQpyv3oqwGe2HV5h2jTVRMVUi3vlpgWFtDT2yBNoF2VpN-d1ezCfzo4dT4hDAM3vUmlAV5JuWF_7fxuMbavDqBkIFtvx6UxP1gvAg6-dxgyFKZO8Ko1OuUXFX7AkyU"
+        },
+        {
+          "name": "意大利面",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkl_lQxoG48CWImbWMuueTPXe4ScNhDrJ88_tz8SuH6RKy2SxUGnsu&s=0",
+          "link": "https://www.google.com/search?sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMprqQl5ktotVaYPJoBoTS4N0c4mj_8D1vUnbMVnFK0L8He0JhuPLgZjyvap2XkvKah33Oke6RGZq8TgCX9xxnG0GHboeLJSzd_cO7lX-oiiVnIFs5UJZYrwhCkS7uD9PMj9eHpGNVyr7gR_BYVjm_z_TSAPlT&q=%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5&sa=X&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQs9oBKAB6BAhmEA8",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMprqQl5ktotVaYPJoBoTS4N0c4mj_8D1vUnbMVnFK0L8He0JhuPLgZjyvap2XkvKah33Oke6RGZq8TgCX9xxnG0GHboeLJSzd_cO7lX-oiiVnIFs5UJZYrwhCkS7uD9PMj9eHpGNVyr7gR_BYVjm_z_TSAPlT"
+        },
+        {
+          "name": "茶",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiONhnNu3KUGsOGFhjgr1vQe-FDExE9snmF7df2l-K4efA_DSU0K8o&s=0",
+          "link": "https://www.google.com/search?sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMphsNNK0nuEVMWl6Q5MqKM0cc7VsDcaVQ-cJDn8JnM8E8HYmorhQQL_V_wPMzn7Ua3Tq4VjTobTzOnAlCnvdg-qFEglC4k70iiKJQIUIHtGgSQuL6ZnzDEGzM1RnQdaBf5vHKbukGC2wOBJtcUoUm2SQ4X5-7&q=%E8%8C%B6&sa=X&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQs9oBKAB6BAhmEBQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E8%8C%B6&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMphsNNK0nuEVMWl6Q5MqKM0cc7VsDcaVQ-cJDn8JnM8E8HYmorhQQL_V_wPMzn7Ua3Tq4VjTobTzOnAlCnvdg-qFEglC4k70iiKJQIUIHtGgSQuL6ZnzDEGzM1RnQdaBf5vHKbukGC2wOBJtcUoUm2SQ4X5-7"
+        },
+        {
+          "name": "巧克力",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTCFnQnkS3oGv-HyiaTBtdQId761ghX0TC92uq1jmHBExhXPltzoGumjlrzIv0uxXOUNo5kvbQe&s=19",
+          "link": "https://www.google.com/search?sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnF4RrFiZIPe9ivfF7JYK3F4Ikb9y-3z6xzpfVI2vKmSS4-FZsGQpkobr1MMztnAmRLBOXNb6O7Q4Yor2eNzZjdwKuOc0j02Y4lBCoFw2pIUmKbhxK40YJvAUtVTiTojNfsFJKi9lyPjl30ED04nMwjLW91o&q=%E5%B7%A7%E5%85%8B%E5%8A%9B&sa=X&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQs9oBKAB6BAhmEBk",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%B7%A7%E5%85%8B%E5%8A%9B&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnF4RrFiZIPe9ivfF7JYK3F4Ikb9y-3z6xzpfVI2vKmSS4-FZsGQpkobr1MMztnAmRLBOXNb6O7Q4Yor2eNzZjdwKuOc0j02Y4lBCoFw2pIUmKbhxK40YJvAUtVTiTojNfsFJKi9lyPjl30ED04nMwjLW91o"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee origin country",
+      "link": "https://www.google.com/search?sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&q=Coffee+origin+country&sa=X&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Coffee+origin+country"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee types",
+      "link": "https://www.google.com/search?sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&q=Coffee+types&sa=X&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Coffee+types"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee Pic",
+      "link": "https://www.google.com/search?sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&q=Coffee+Pic&sa=X&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Coffee+Pic"
+    },
+    {
+      "block_position": 1,
+      "query": "Black coffee",
+      "link": "https://www.google.com/search?sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&q=Black+coffee&sa=X&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Black+coffee"
+    },
+    {
+      "block_position": 1,
+      "query": "Decaffeinated coffee",
+      "link": "https://www.google.com/search?sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&q=Decaffeinated+coffee&sa=X&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Decaffeinated+coffee"
+    },
+    {
+      "block_position": 1,
+      "query": "History of coffee pdf",
+      "link": "https://www.google.com/search?sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&q=History+of+coffee+pdf&sa=X&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=History+of+coffee+pdf"
+    },
+    {
+      "block_position": 1,
+      "query": "History of coffee Timeline",
+      "link": "https://www.google.com/search?sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&q=History+of+coffee+Timeline&sa=X&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=History+of+coffee+Timeline"
+    },
+    {
+      "block_position": 1,
+      "query": "When was coffee introduced to Europe",
+      "link": "https://www.google.com/search?sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&q=When+was+coffee+introduced+to+Europe&sa=X&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=When+was+coffee+introduced+to+Europe"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Coffee&sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&ei=T9uxatT6EtvLkPIP-d2_wAc&start=10&sa=N&sstk=AS6-VmI6xNDBTLucN_i-g26mTAPK9q5Jc0jZGZQvlNo4F_jGikwjm144j3rOuAEQDByWBI6a9aQeMDXj057zuLKzoAB3Tcv8dass5A&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ8NMDegQIZRAO",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Coffee&sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&ei=T9uxatT6EtvLkPIP-d2_wAc&start=10&sa=N&sstk=AS6-VmI6xNDBTLucN_i-g26mTAPK9q5Jc0jZGZQvlNo4F_jGikwjm144j3rOuAEQDByWBI6a9aQeMDXj057zuLKzoAB3Tcv8dass5A&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ8tMDegQIZRAE",
+      "3": "https://www.google.com/search?q=Coffee&sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&ei=T9uxatT6EtvLkPIP-d2_wAc&start=20&sa=N&sstk=AS6-VmI6xNDBTLucN_i-g26mTAPK9q5Jc0jZGZQvlNo4F_jGikwjm144j3rOuAEQDByWBI6a9aQeMDXj057zuLKzoAB3Tcv8dass5A&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ8tMDegQIZRAG",
+      "4": "https://www.google.com/search?q=Coffee&sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&ei=T9uxatT6EtvLkPIP-d2_wAc&start=30&sa=N&sstk=AS6-VmI6xNDBTLucN_i-g26mTAPK9q5Jc0jZGZQvlNo4F_jGikwjm144j3rOuAEQDByWBI6a9aQeMDXj057zuLKzoAB3Tcv8dass5A&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ8tMDegQIZRAI",
+      "5": "https://www.google.com/search?q=Coffee&sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&ei=T9uxatT6EtvLkPIP-d2_wAc&start=40&sa=N&sstk=AS6-VmI6xNDBTLucN_i-g26mTAPK9q5Jc0jZGZQvlNo4F_jGikwjm144j3rOuAEQDByWBI6a9aQeMDXj057zuLKzoAB3Tcv8dass5A&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ8tMDegQIZRAK",
+      "6": "https://www.google.com/search?q=Coffee&sca_esv=f0da1ac9b7a45388&hl=zh-cn&gl=cn&ei=T9uxatT6EtvLkPIP-d2_wAc&start=50&sa=N&sstk=AS6-VmI6xNDBTLucN_i-g26mTAPK9q5Jc0jZGZQvlNo4F_jGikwjm144j3rOuAEQDByWBI6a9aQeMDXj057zuLKzoAB3Tcv8dass5A&ved=2ahUKEwiU3puFhoGXAxXbJUQIHfnuD3gQ8tMDegQIZRAM"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Coffee&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Coffee&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Coffee&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Coffee&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Coffee&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Coffee&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=Coffee&start=50"
+    }
+  }
+}
